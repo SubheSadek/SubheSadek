@@ -5,7 +5,7 @@
 <!--[![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)](https://github.com/sw-yx?tab=repositories)-->
 [![image](https://user-images.githubusercontent.com/73824323/97951589-dccab600-1dc4-11eb-9a16-7cac285b7ff7.png)](https://github.com/SubheSadek?tab=repositories)
 
-<p>Hi there, my name is Subeh Sadek and I am a Full Stack Web Developer.</p>
+<p>Hi there, my name is Subhe Sadek and I am a Full Stack Web Developer.</p>
 <p>I am a B.B.A graduate and currently working on several projects. I have a great thirst for learning and believe in continuous improvement.</p>
 
 ### Languages and Skills:
