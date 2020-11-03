@@ -55,5 +55,5 @@
 [twitter]: https://twitter.com/MsSadek4
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/subhe-sadek-288b23169/
 [webdevplaylist]: https://github.com/SubheSadek
