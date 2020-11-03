@@ -51,9 +51,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/SubheSadek
 [twitter]: https://twitter.com/MsSadek4
 [facebook]: https://www.facebook.com/profile.php?id=100037921170987
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://github.com/SubheSadek
 [linkedin]: https://www.linkedin.com/in/subhe-sadek-288b23169/
 [webdevplaylist]: https://github.com/SubheSadek
