@@ -57,4 +57,4 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://github.com/SubheSadek?tab=repositories
+[webdevplaylist]: https://github.com/SubheSadek
