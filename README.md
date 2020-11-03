@@ -19,14 +19,14 @@
 
 ### Languages and Skills:
 [<img align="left" alt="php" width="26px" src="https://user-images.githubusercontent.com/73824323/97970444-bcfab880-1deb-11eb-9521-fdbc0ad22a97.png" />][webdevplaylist]
-[<img align="left" alt="Laravel" width="26px" src="https://user-images.githubusercontent.com/73824323/97970309-89b82980-1deb-11eb-8e7a-9dc00c321a21.png" />][webdevplaylist]
+[<img align="left" alt="Laravel" width="26px" src="https://user-images.githubusercontent.com/73824323/97973160-dd2c7680-1def-11eb-8ea5-a951646fd779.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 <br>
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Vue" width="26px" src="https://user-images.githubusercontent.com/73824323/97970746-3692a680-1dec-11eb-8697-e5384d173f5d.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="jQuery" width="26px" src="https://user-images.githubusercontent.com/73824323/97971585-7c9c3a00-1ded-11eb-9f3f-9d5bc17370c2.png" />][reactplaylist]
+[<img align="left" alt="jQuery" width="26px" src="https://user-images.githubusercontent.com/73824323/97973254-04834380-1df0-11eb-8c8d-c099ea3ff3e6.png" />][reactplaylist]
 [<img align="left" alt="Ajax" width="26px" src="https://user-images.githubusercontent.com/73824323/97971783-c422c600-1ded-11eb-9c24-48e9df71ce9d.png" />][reactplaylist]
 <br>
 
