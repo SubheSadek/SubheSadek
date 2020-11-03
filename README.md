@@ -18,7 +18,6 @@
 [<img align="left" alt="Vue" width="26px" src="https://user-images.githubusercontent.com/73824323/97970746-3692a680-1dec-11eb-8697-e5384d173f5d.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
 [<img align="left" alt="jQuery" width="26px" src="https://user-images.githubusercontent.com/73824323/97973254-04834380-1df0-11eb-8c8d-c099ea3ff3e6.png" />][webdevplaylist]
-[<img align="left" alt="Ajax" width="26px" src="https://user-images.githubusercontent.com/73824323/97971783-c422c600-1ded-11eb-9c24-48e9df71ce9d.png" />][webdevplaylist]
 <br>
 
 [<img align="left" alt="bootstrape" width="26px" src="https://user-images.githubusercontent.com/73824323/97971986-1368f680-1dee-11eb-9a5b-134186782f33.png" />][webdevplaylist]
