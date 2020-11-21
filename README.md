@@ -56,4 +56,4 @@
 [facebook]: https://www.facebook.com/profile.php?id=100037921170987
 [instagram]: https://github.com/SubheSadek
 [linkedin]: https://www.linkedin.com/in/subhe-sadek-288b23169/
-[webdevplaylist]: https://github.com/SubheSadek
+[webdevplaylist]: https://subhesadek.com/
