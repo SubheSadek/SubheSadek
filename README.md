@@ -6,7 +6,7 @@
 [![image](https://user-images.githubusercontent.com/73824323/97951589-dccab600-1dc4-11eb-9a16-7cac285b7ff7.png)](https://github.com/SubheSadek?tab=repositories)
 
 # 💫 About Me:
-🔭 I’m currently working on MiAccounts (ERP Software)<br>🌱 I’m currently learning Go<br>💬 Ask me about PHP, Laravel, Vue.js, React.js<br>👨‍💻 All of my projects are available at https://subhesadek.github.io<br>📫 How to reach me https://subhesadek.github.io
+🔭 I’m currently working on QuickRxBD (All in one prescription Software)<br>🌱 I’m currently learning Rust<br>💬 Ask me about PHP, Laravel, Vue.js, React.js<br>👨‍💻 All of my projects are available at https://subhesadek.github.io<br>📫 How to reach me https://subhesadek.github.io
 
 
 ## 🌐 Socials:
